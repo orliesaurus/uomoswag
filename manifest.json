@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "description": "API fanatics, this planet dies so that I may live. A course of events that has occurred a billion times before. ",
   "author": "orliesaurus",
-  "chrome_url_overrides": {"newtab": "ind.html"}/*,
+  "chrome_url_overrides": {"newtab": "ind.html"}
 
 }
