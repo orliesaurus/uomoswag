@@ -1,5 +1,5 @@
 # uomoswag
-This is a Chrome Extension which allows us to benefit from the knowledge shared of our lord and saviour mtt_87
+This is a Chrome Extension which allows us to benefit from the knowledge shared of our lord and saviour [mtt87](https://github.com/mtt87)
 
 #requirements
 Chrome - the only browser
